@@ -1,7 +1,8 @@
 //
 // Blackjack
 // by Richard Walklate
-//
+// this file has changed!! And again!!! and again!!!
+// 
 
 // Card Variables
 let suits = ['Hearts','Clubs','Diamonds','Spades'];
